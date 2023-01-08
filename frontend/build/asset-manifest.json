@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/G-M-IKBAL/Land_Estate/static/css/main.97b1138d.css",
+    "main.js": "/G-M-IKBAL/Land_Estate/static/js/main.0a59a0e2.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/G-M-IKBAL/Land_Estate/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/G-M-IKBAL/Land_Estate/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/G-M-IKBAL/Land_Estate/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Poppins-Regular.ttf": "/G-M-IKBAL/Land_Estate/static/media/Poppins-Regular.1c701c9a6b587802e3d0.ttf",
+    "static/media/Poppins-Medium.ttf": "/G-M-IKBAL/Land_Estate/static/media/Poppins-Medium.b59f6a636397975c5409.ttf",
+    "static/media/Poppins-Bold.ttf": "/G-M-IKBAL/Land_Estate/static/media/Poppins-Bold.e2abc8f5e9a67ea669ea.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/G-M-IKBAL/Land_Estate/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/G-M-IKBAL/Land_Estate/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/G-M-IKBAL/Land_Estate/index.html",
+    "main.97b1138d.css.map": "/G-M-IKBAL/Land_Estate/static/css/main.97b1138d.css.map",
+    "main.0a59a0e2.js.map": "/G-M-IKBAL/Land_Estate/static/js/main.0a59a0e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b1138d.css",
+    "static/js/main.0a59a0e2.js"
+  ]
+}

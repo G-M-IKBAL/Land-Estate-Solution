@@ -1,0 +1,76 @@
+
+
+
+  @font-face {
+    font-family: Poppins-Bold;
+    /* src: url('../fonts/poppins/Poppins-Bold.ttf'); */
+    
+    src:url('./fonts/poppins/Poppins-Bold.ttf')
+  }
+
+body{
+
+    /* background: -webkit-linear-gradient(to right, #859398, #283048); 
+    background: linear-gradient(to right, #859398, #283048); 
+     */
+}
+#card{
+    margin-top: 1cm;
+    margin-left: 1cm;
+   
+    box-shadow: 0 0.188em 1.550em rgb(156, 156, 156);
+    width: 90%;
+    background-color: rgb(255, 255, 255);
+
+}
+
+#card:hover{
+    
+    transform: scale(1.1)
+    
+    /* transition: transform .5s ease; */
+}
+
+h1{
+
+    text-align: center;
+    margin-left: 0.5cm;
+    
+   
+    font-family: Poppins-Bold;
+    font-size: 14px;
+    line-height: 1.7;
+    color: #fdfdfd;
+   
+    
+
+}
+
+#bar{
+    padding: 1cm;
+    text-align: center;
+    font-size: 2cm;
+    box-shadow: 0 0.188em 1.550em rgb(26, 25, 25); 
+ 
+}
+
+
+#header{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+
+}
+
+#btn{
+    background-color: rgb(46, 47, 44);
+}
+
+#bell{
+    max-width: 100%;
+    margin-top: -2cm;
+}
+
+#bell_badge{
+    margin-top: -5.5cm;
+    margin-left: 1.5cm;
+}
